@@ -30,14 +30,23 @@ Users watch short videos ,where each clip introduces new vocabulary in context. 
 
 > Replace these with your actual screenshots
 
-### 🏠 Home / Feed
-![Feed Screenshot](./screenshots/feed.png)
+### 🏠 ForYou
+![ForYou Screenshot](./screenshots/screen1.png)
 
 ### 🔍 Explore Page
-![Explore Screenshot](./screenshots/explore.png)
+![Explore Screenshot](./screenshots/screen2.png)
 
-### 📚 Learning View
-![Learning Screenshot](./screenshots/learning.png)
+### 🔁 Repetitions
+![Repetitions Screenshot](./screenshots/screen3.png)
+
+### 🛒 Shop ⬆️
+![Shop Screenshot](./screenshots/screen4.png)
+
+### ⬆️ Upload 
+![Upload Screenshot](./screenshots/screen5.png)
+
+### 👤 Profile
+![Profile Screenshot](./screenshots/screen6.png)
 
 ---
 
