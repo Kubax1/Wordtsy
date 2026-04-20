@@ -28,8 +28,6 @@ Users watch short videos ,where each clip introduces new vocabulary in context. 
 
 ## 🖼️ Screenshots
 
-> Replace these with your actual screenshots
-
 ### 🏠 ForYou
 ![ForYou Screenshot](./screenshots/screen1.png)
 
@@ -39,7 +37,7 @@ Users watch short videos ,where each clip introduces new vocabulary in context. 
 ### 🔁 Repetitions
 ![Repetitions Screenshot](./screenshots/screen3.png)
 
-### 🛒 Shop ⬆️
+### 🛒 Shop 
 ![Shop Screenshot](./screenshots/screen4.png)
 
 ### ⬆️ Upload 
