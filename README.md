@@ -53,10 +53,10 @@ Users watch short videos ,where each clip introduces new vocabulary in context. 
 ---
 
 ## ⚙️ Architecture
-Client (React)
-↓
-REST API (Express)
-↓
-Database (PostgreSQL)
-↓
-Cloud Storage + CDN (Cloudflare)
+Client (React)  
+↓  
+REST API (Express)  
+↓  
+Database (PostgreSQL)    
+↓  
+Cloud Storage + CDN (Cloudflare)  
