@@ -54,11 +54,9 @@ Users watch short videos ,where each clip introduces new vocabulary in context. 
 ### Frontend
 - React
 - Mantine UI
-- React Icons
 
 ### Backend
-- Node.js
-- Express.js
+- Node.js (Express.js)
 
 ### Infrastructure
 - Cloudflare (CDN + caching)
