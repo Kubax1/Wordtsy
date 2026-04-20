@@ -2,7 +2,6 @@
 
 **Wordtsy** is a modern web application designed to help users learn foreign language vocabulary through short-form video content.
 
-Check out the app in action:  
 👉 https://wordtsy.com
 ---
 
