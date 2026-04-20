@@ -14,19 +14,6 @@ Users watch short videos ,where each clip introduces new vocabulary in context. 
 
 ---
 
-## ✨ Features
-
-- 🎥 Short-form learning videos 
-- 🧠 Vocabulary learning in context
-- 🔁 Spaced repetition system (SRS)
-- ❤️ Personalized "For You" feed
-- 🔍 Explore page for discovering content
-- 👤 User authentication & profiles
-- 📊 Progress tracking
-- ⚡ Fast video delivery (CDN optimized)
-
----
-
 ## 🖼️ Screenshots
 
 ### 🏠 ForYou
